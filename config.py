@@ -1,0 +1,3 @@
+import os
+
+AURA_SPREADSHEET_ID = os.environ["AURA_SPREADSHEET_ID"]
